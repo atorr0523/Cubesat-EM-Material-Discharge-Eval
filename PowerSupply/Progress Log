@@ -1,0 +1,15 @@
+Handled by: Alejandro Torres
+Power Supply Progress Log
+Week of 9/18 - 9/22
+
+9/19/23
+Changes were made to the subsystem, Ian used to be the one to handle this part of the project but now Alejandro will take care of this.
+Now the question is where to go from here.
+What requirements to look at:
+  - Mass of the circuit should be less than 200 grams
+      -What battery do we use then?
+  - Voltage testing has been scaled down to 10-50 Volts
+  - 24 or 48 V input and power budget of 25W, not including ionizer
+  - Must fit within 1 unit of a cubesat (not more than 10 cm x 10 cm x 10 cm), ideally should
+    target a form factor that fits within 0.2 units (0.2 cm x 10 cm x 10 cm)
+  -
