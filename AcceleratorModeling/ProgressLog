@@ -1,4 +1,14 @@
 High Potential Accelerator Modeling
 9/18 - 9/22
 -We have decided that Michael Kim is doing this subsystem. 
--WE have decide to use Teflon,
+Requirements:
+-Accumulate and maintain an electrostatic potential up to 100kV at its surface.
+-Find 3 materials and 3 geometries, so we are testing 9 material-geometry combinations.
+    -Material 1: Teflon (Polytetrafluoroethylene)
+    -Material 2:
+    -Material 3:
+    -Geometry 1:
+    -Geometry 2:
+    -Geometry 3:
+-Make sure the combinations fit within a 100m x 100m face of a unit cubesat.
+
