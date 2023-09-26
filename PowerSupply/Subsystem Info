@@ -1,6 +1,7 @@
 What requirements to look at:
   - Mass of the circuit should be less than 200 grams
       -What battery do we use then?
+          Update: Power is supplied from the Space Craft (Assuming 24 or 48V power supply for simulations)
   - Voltage testing has been scaled down to 10-50 Volts (potentially)
   - 24 or 48 V input and power budget of 25W, not including ionizer
   - Must fit within 1 unit of a cubesat (not more than 10 cm x 10 cm x 10 cm), ideally should
