@@ -8,3 +8,10 @@ Changes were made to the subsystem, Ian used to be the one to handle this part o
 9/22/23
 Met with Johnathan (sponsor) and received some materials from him; gained a better understanding of the project as well and will look more into this subsystem 
 
+Week of 10/2 - 10/6
+
+10/2/2023 & 10/3/2023
+Researched some ICs using Webench to come up with some circuits to deliver the required voltages/currents/Power to the components for our project
+
+Found that the LM2595 - ADJ can be used as a buck converter to buck the 24V Input to 3.3V with a current of 0.3A and power of about 1W to power the
+microcontroller and the digital-to-analog converter.
