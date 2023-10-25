@@ -15,3 +15,7 @@ Researched some ICs using Webench to come up with some circuits to deliver the r
 
 Found that the LM2595 - ADJ can be used as a buck converter to buck the 24V Input to 3.3V with a current of 0.3A and power of about 1W to power the
 microcontroller and the digital-to-analog converter.
+
+10/7-10/27
+
+Worked on PCB on Altium designer, went to design blitz to receive some help and finished PCB on 10/24. Ordering PCB on 10/24.
