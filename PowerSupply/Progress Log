@@ -32,3 +32,20 @@ Time allotted: 2 hours
 Worked on Tracing PCB configuration in Altium and putting parts in the Excel sheet to order. 
 
 
+
+3/1/2024 - 3/3/2024 (Capstone Blitz)
+3/1
+Finished rerouting new PCB design
+time allotted: 4 hours
+
+3/2
+E-Load Tested Buck converter which converts 24V to 5V and plotted the data. 
+Then tried testing this buck converter to see if it can power the MCU which did not end up working. 
+Tried an old design that converted 24V to 3.3V which actually got the MCU to work as intended. 
+
+On the Altium software, changed one of the buck converter configurations to buck down to 3.3V now. 
+Rerouted PCB file once again. 
+
+Now starting integration with MCU. 
+
+3/3
