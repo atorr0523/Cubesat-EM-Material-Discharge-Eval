@@ -1,1 +1,15 @@
+Altium files for the Power Supply PCB needed to power the following Components:
 
+Ionizer chips
+  - Powered from the boost converter which converts the 24V input to 48V with a current of 0.62A
+
+Thermionic Cathodes
+  - Powered from the buck converter which converts the 24V input to 5V. There are 4 thermionic cathodes each receiving the same voltage. The power needed for 
+  of these components ranges from 1-3W.
+  - 1 buck converter used for this
+
+Microcontroller
+  - Powered from another buck converter which converts the 24V input to 3.3V with a current of 0.35A
+
+Stepper Motor Controller
+  -Powered from a separate buck converter which converts the 24V input to 5V with a current of 0.5A.
