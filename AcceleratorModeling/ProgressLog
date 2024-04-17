@@ -6,15 +6,15 @@ Requirements:
 -Find 3 materials and 3 geometries, so we are testing 9 material-geometry combinations.
    
 -Make sure the combinations fit within a 100m x 100m face of a unit cubesat.
--Teflon (Polytetrafluoroethylene) is used for shielding
+
 
 10/2 - 10/6
 -We have finalized what materials and geometries we are using
-    -Material 1: Aluminum
-    -Material 2: Copper
-    -Material 3: Titanium
+    -Material 1: Teflon
+    -Material 2: HDPE
+    -Material 3: Polypropylene
     -Geometry 1: Circular Plate
     -Geometry 2: Hemisphere
-    -Geometry 3: Parabolic Pyramid
--We currently have aluminum sheets for one material and are waiting for the other two to be acquired.
+    -Geometry 3: Cone
+-We currently have teflon sheets for one material and are waiting for the other two to be acquired.
     
