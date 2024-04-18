@@ -1,0 +1,4 @@
+This folder holds the data collected and Oscilloscope screenshots from the low voltage testing performed for Orbital Arc.
+This testing was performed in order to provide Orbital Arc preliminary data of how the voltage applied to the accelerator plate will dissipate and how often it will need to be pulsed
+The conclusion of this testing was that the dissipation over the intended operating range (First 10% of discharge) would be linear, and further high voltage testing would be required to get the actual dissipation curve
+At this point, further testing was not able to take place and neglected, with my priority shifting to physical integration of the prototype
