@@ -8,8 +8,7 @@ What requirements to look at:
     target a form factor that fits within 0.2 units (0.2 cm x 10 cm x 10 cm)
 
   - Power Supply will provide power to the following components
-      - High Voltage Electrostatic Accelerator
-      - Ionizer Chips
-      - Gas Feed Control (not yet selected/extra credit)
-      - Gimbal Control (not yet selected)
+      - Microcontroller
+      - Thermionic Cathodes
+      - Stepper Motor Controller
       
