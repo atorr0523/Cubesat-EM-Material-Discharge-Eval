@@ -1,0 +1,8 @@
+For the Power Supply subsystem you will find the altium files before integrating with the microcontroller. 
+
+The final design included the following:
+  -A boost converter which steps up the voltage from 24V to 48V with a 0.62A output current needed.
+  -A buck converter which steps down the voltage from 24V to 5V with a maximum output current of 2A needed for the thermionic cathodes.
+  -A buck converter which steps down the voltage from 24V to 5V with a maximum output current of 1A needed for the stepper motor controller
+  -A buck converter which steps down the voltage from 24V to 3.3V with a maximum output current of 1A needed to power the microcontroller.
+    
