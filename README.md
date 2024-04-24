@@ -11,5 +11,8 @@ The accelerator modeling subsystem helps with the design of the accelerator plat
 Simulations were performed amongst 3 different geometries and 3 different materials in order to see which iteration of 
 the plate would fit well within the CubeSat's standards. 
 
-The Power circuit subsystem takes the input voltage and converts the voltage to power the components within the system.
+The microcontroller subsystem, which is powered from the power PCB, helps control the system as well as the stepper motor controller which is used
+for a gas feed valve.
+
+The power circuit subsystem takes the input voltage and converts the voltage to power the components within the system.
 
