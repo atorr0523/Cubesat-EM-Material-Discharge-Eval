@@ -1,0 +1,57 @@
+Handled by: Alejandro Torres
+Power Supply Progress Log
+Week of 9/18 - 9/22
+
+9/19/23
+Changes were made to the subsystem, Ian used to be the one to handle this part of the project but now Alejandro will take care of this.
+
+9/22/23
+Met with Johnathan (sponsor) and received some materials from him; gained a better understanding of the project as well and will look more into this subsystem 
+
+Week of 10/2 - 10/6
+
+10/2/2023 & 10/3/2023
+Researched some ICs using Webench to come up with some circuits to deliver the required voltages/currents/Power to the components for our project
+
+Found that the LM2595 - ADJ can be used as a buck converter to buck the 24V Input to 3.3V with a current of 0.3A and power of about 1W to power the
+microcontroller and the digital-to-analog converter.
+
+10/7-10/27
+
+Worked on PCB on Altium designer, went to design blitz to receive help, and finished PCB on 10/24. Ordering PCB on 10/24.
+
+
+
+
+2-01-2024 - 2-05-2024
+Time allotted: 7 hours
+Worked on finding components for the new buck and boost converters. Transferring configurations on an Altium schematic and now routing PCB.
+
+2-07-2024
+Time allotted: 2 hours
+Worked on Tracing PCB configuration in Altium and putting parts in the Excel sheet to order. 
+
+
+
+3/1/2024 - 3/3/2024 (Capstone Blitz)
+3/1
+Finished rerouting new PCB design
+time allotted: 4 hours
+
+3/2
+E-Load Tested Buck converter which converts 24V to 5V and plotted the data. 
+Then tried testing this buck converter to see if it can power the MCU which did not end up working. 
+Tried an old design that converted 24V to 3.3V which actually got the MCU to work as intended. 
+
+On the Altium software, changed one of the buck converter configurations to buck down to 3.3V now. 
+Rerouted PCB file once again. 
+
+Now starting integration with MCU. 
+
+Time allotted: 8 hours
+
+3/3
+Worked on the Altium Schematic and communicated with Josh to try and integrate the MCU into the schematic and the PCB document. 
+Ran into some problems when integrating so am now trying to overcome these problems. 
+
+Time allotted: 5 hours
